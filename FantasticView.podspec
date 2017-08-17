@@ -16,7 +16,7 @@ s.source_files = 'FantasticView/*.swift'
 s.resources = 'FantasticView/*.storyboard', 'FantasticView/*.xcassets' 
 s.requires_arc = true
  
-  s.ios.deployment_target = '9.3'
+  s.ios.deployment_target = '10.0'
   s.source_files = 'FantasticView/FantasticView.swift'
  
 end
